@@ -38,3 +38,7 @@ Este artículo presenta muchos de los comandos de línea más útiles para el de
 
 Descripción general del hardware
 Hay varios comandos de línea que le brindarán una descripción general completa del hardware de su computadora.
+
+---
+
+commands0[https://carlesenric.github.io/commands0/commands0]
