@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 title: Commands
 description: Command line cheat sheet
+plugins:
+  - jekyll-relative-links
+  - jemoji
+relative_links:
+  enabled: true
