@@ -9,4 +9,4 @@ relative_links:
   enabled: true
 layout: page
 title: "Linux Commands"
-premalink: /commands0
+premalink: /commands
