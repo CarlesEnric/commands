@@ -1,6 +1,7 @@
 title: Commands
 description: Command line cheat sheet
-theme: clyell
+theme:
+  name: clyell
 plugins:
   - jekyll-relative-links
   - jemoji
