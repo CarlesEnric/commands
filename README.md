@@ -1,5 +1,5 @@
-# commands0
-##(EN): Linux commands hardware information
+# COMMANDS0
+## (EN): Linux commands hardware information
 
 Many line commands for detecting hardware must be issued under root authority. So either switch to the root user ID, or issue the command under your regular user ID preceded by sudo:
 
@@ -11,7 +11,9 @@ This article introduces many of the most useful line commands for system discove
 Hardware overview
 There are several line commands that will give you a comprehensive overview of your computer's hardware.
 
-##(CA): Informació de hardware de les ordres/comandaments de Linux
+---
+
+## (CA): Informació de hardware de les ordres/comandaments de Linux
 
 Moltes ordres de línia per detectar maquinari s'han d'emetre sota l'autoritat root. Per tant, canvieu a l'ID d'usuari root o emeteu l'ordre sota el vostre ID d'usuari normal precedit de sudo:
 
@@ -23,7 +25,9 @@ Aquest article presenta moltes de les ordres de línia més útils per al descob
 Visió general del maquinari
 Hi ha diverses ordres de línia que us donaran una visió general completa del maquinari del vostre ordinador.
 
-##(ES): Información de hardware de comandos de Linux
+---
+
+## (ES): Información de hardware de comandos de Linux
 Muchos comandos de línea para detectar hardware deben emitirse bajo autoridad de root. Entonces, cambie al ID de usuario raíz o emita el comando con su ID de usuario habitual precedido por sudo:
 
 sudo <el_comando_linea>
