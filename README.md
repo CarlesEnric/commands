@@ -1,4 +1,5 @@
-# COMMANDS0
+# LINUX COMMANDS
+
 ## (EN): Linux commands hardware information
 
 Many line commands for detecting hardware must be issued under root authority. So either switch to the root user ID, or issue the command under your regular user ID preceded by sudo:
