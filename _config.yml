@@ -8,6 +8,6 @@ plugins:
 relative_links:
   enabled: true
 layout: page
-markdown: GFM
+markdown: kramdown
 title: "Linux Commands"
 premalink: /commands
