@@ -1,4 +1,4 @@
-title: Commands
+title: "Linux Commands"
 description: Command line cheat sheet
 theme: jekyll-theme-clyell
 theme_mode:  [light|dark]
@@ -9,5 +9,4 @@ relative_links:
   enabled: true
 layout: page
 markdown: kramdown
-title: "Linux Commands"
 premalink: /commands
