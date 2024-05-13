@@ -8,5 +8,6 @@ plugins:
 relative_links:
   enabled: true
 layout: page
+markdown: GFM
 title: "Linux Commands"
 premalink: /commands
